@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.opp{
+    background-color: #583DF8;
+    height: 70vh;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.op{
+    background-color: #FFF6F5;
+    height: 70vh;
+    border-radius: 20px ;
+    margin-top: 20px;
+}
+.bo{
+    font-size: 60px;
+    color: white;
+}
+.of{
+    color: white;
+}
+.kop{
+    background-color: #583DF8;
+    height: 30vh;
+    margin-left: 20%;
+    border-radius: 100%;
+}
+.yo{
+    color: white;
+    padding-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.rep{
+    height: 8vh;
+    background-color: #FFFBF2;
+    border-radius: 10px;
+}
+.num{
+    padding-left: 100px;
+}
+.con{
+    width: 50%;
+    height: 8vh;
+    background-color: #583DF8;
+    margin-left: 20%;
+    margin-top: 10px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
